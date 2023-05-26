@@ -171,3 +171,23 @@ aside button.close {
     display: block;
     background-color: rgba(0, 0, 0, .35);
 }
+
+.footer .footer-item1{
+    box-shadow: none;
+    background-color: transparent;
+    cursor: pointer;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+
+.footer .footer-item{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    
+}
